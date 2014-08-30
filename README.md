@@ -14,4 +14,4 @@ Items:
 
 MicroUSB: Micro USB connector footprint.
 
-AP1117Y33G-13: 3.3V DC voltage regulator. Data sheet:  http://www.mouser.com/ds/2/115/AP1117-82280.pdf
+AP1117Y33G-13: SOT-89 package for 3.3V DC voltage regulator. Data sheet:  http://www.mouser.com/ds/2/115/AP1117-82280.pdf
