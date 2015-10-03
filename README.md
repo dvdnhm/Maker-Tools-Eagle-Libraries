@@ -1,7 +1,7 @@
-mtD-Eagle-Libraries
+Maker-Tools-Eagle-Libraries
 ===================
 
-mtD Solutions' Public Eagle PCB Footprints using Eagle 6.0+ 
+Maker-Tools' Public Eagle PCB Footprints using Eagle 6.0+ 
 
 By downloading these files, you acknowledge that you are using the files at your own risk. We cannot be held responsible for faulty PCBs. Always check your parts against a 1:1 printout.
 
@@ -12,10 +12,3 @@ Installing Eagle: https://learn.sparkfun.com/tutorials/how-to-install-and-setup-
 Creating Schematics: https://learn.sparkfun.com/tutorials/using-eagle-schematic
 
 Creating Boards: https://learn.sparkfun.com/tutorials/using-eagle-board-layout
-
-
-Items:
-
-MicroUSB: Micro USB connector footprint.
-
-AP1117Y33G-13: SOT-89 package for 3.3V DC voltage regulator. Data sheet: http://www.mouser.com/ds/2/115/AP1117-82280.pdf
